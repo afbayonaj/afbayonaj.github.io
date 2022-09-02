@@ -4,6 +4,9 @@
 
 Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestjs, MySQL, PostgreSQL. Tengo experiencia trabajando con la metodogia SCRUM y con equipos de trabajo interdisciplinar. Tengo conocimiento liderando equipos de trabajo y proyectos de investigacion.
 
+# 📌 You canfind me:
+
+
 # 🧑‍💻 Some technologies I use:
 
 
